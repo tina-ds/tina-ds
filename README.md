@@ -4,15 +4,15 @@
 ```yaml 
   name: Valentina Kudrenko
   located_in: Sochi, Russian Federation
-  current_job: freelance
+  current_job: Freelance
   education: 
     [
-      "Bachelor's in Management (Project management)",
+      "Bachelor's in Management (Project Management)",
       "'IBM Data Science' Professional Certification"
     ]
   currently_learning:
     [
-      "Master's in Contemporary combinatorics"
+      "Master's in Contemporary Combinatorics"
     ]
   university:
     [
