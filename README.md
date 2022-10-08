@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:01826c,100:124b76&height=150&section=header&text=Greetings!&fontColor=EEEEEE&fontAlignY=37&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:01826c,100:004a7f&height=150&section=header&text=Greetings!&fontColor=EEEEEE&fontAlignY=37&fontSize=70" />
 
 ## About Me ##
 ```yaml 
