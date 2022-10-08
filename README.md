@@ -26,4 +26,4 @@
     ]
   hobbies: ["Music", "Reading", "Swimming"]
 ```
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:1a4675,100:399179&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:15407a,100:009f83&height=100&section=footer" />
