@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,2,2,3&height=150&section=header&text=Greetings!&fontAlignY=37&fontSize=80" />
 
 ```yaml 
-* name: Valentina Kudrenko
+  name: Valentina Kudrenko
   located_in: Sochi, Russian Federation
   current_job: freelance
   education: 
@@ -24,5 +24,5 @@
       "Quantum Machine Learning"
     ]
   hobbies: ["Music", "Reading", "Swimming"]
-* 
+ 
 ```
