@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,2,2,3&height=150&section=header&text=Greetings!&fontColor=EEEEEE&fontAlignY=37&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:399179,100:1a4675&height=150&section=header&text=Greetings!&fontColor=e6e9e4&fontAlignY=37&fontSize=70" />
 
 ## About Me ##
 ```yaml 
@@ -26,4 +26,4 @@
     ]
   hobbies: ["Music", "Reading", "Swimming"]
 ```
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,2,3,&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:1a4675,100:399179&height=100&section=footer" />
