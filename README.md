@@ -19,3 +19,4 @@
   hobbies: ["Music", "Reading", "Swimming"]
 ```
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:15407a,100:009f83&height=100&section=footer" />
+![alt-text](https://github.com/tina-ds/tina-ds/blob/main/'IBM%20Data%20Science'%20Professional%20Certification.pdf)
