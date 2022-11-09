@@ -10,6 +10,14 @@
       "Bachelor's in Management (Project Management)",
       "'IBM Data Science' Professional Certification"
     ]
+  currently_learning:
+    [
+      "Master's in Contemporary Combinatorics"
+    ]
+  university:
+    [
+      "MIPT - Moscow Institute of Physics and Technology"
+    ]
   fields_of_interests:
     [
       "Data Science",
