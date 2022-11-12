@@ -12,7 +12,7 @@
     ]
   currently_learning:
     [
-      "Master's in Contemporary Combinatorics"
+      "Master in Contemporary Combinatorics"
     ]
   university:
     [
