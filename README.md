@@ -7,7 +7,7 @@
   current_job: Freelance
   education: 
     [
-      "Bachelor's in Management (Project Management)",
+      "Bachelor in Management (Project Management)",
       "'IBM Data Science' Professional Certification"
     ]
   currently_learning:
