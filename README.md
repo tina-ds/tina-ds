@@ -7,10 +7,10 @@
   current_job: Freelance
   education: 
     [
-"Master's Degree in Applied Mathematics and Computer Science (Contemporary Combinatorics), MIPT",
-"Professional Retraining Diploma in Advanced Machine Learning Methods (Big Data Analysis Specialist), MIPT",
-"Bachelor's Degree in Management (Project Management)",
-"IBM Data Science Professional Certificate"
+      "Master's Degree in Applied Mathematics and Computer Science (Contemporary Combinatorics), MIPT",
+      "Professional Retraining Diploma in Advanced Machine Learning Methods (Big Data Analysis Specialist), MIPT",
+      "Bachelor's Degree in Management (Project Management)",
+      "IBM Data Science Professional Certificate"
     ]
   university:
     [
